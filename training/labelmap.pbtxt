@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'menu'
+}
+
+item {
+  id: 2
+  name: 'menu-logo'
+}
+
+item {
+  id: 3
+  name: 'menu-search'
+}
+
+item {
+  id: 4
+  name: 'menu-button'
+}
