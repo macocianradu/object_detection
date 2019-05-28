@@ -6,7 +6,7 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1300</width>
+		<width>1200</width>
 		<height>700</height>
 		<depth>3</depth>
 	</size>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>1</ymin>
-			<xmax>1300</xmax>
+			<xmax>1199</xmax>
 			<ymax>40</ymax>
 		</bndbox>
 	</object>
@@ -163,7 +163,7 @@
 		<bndbox>
 			<xmin>1085</xmin>
 			<ymin>1</ymin>
-			<xmax>1264</xmax>
+			<xmax>1199</xmax>
 			<ymax>38</ymax>
 		</bndbox>
 	</object>
@@ -175,7 +175,7 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>161</ymin>
-			<xmax>1300</xmax>
+			<xmax>1199</xmax>
 			<ymax>203</ymax>
 		</bndbox>
 	</object>
@@ -295,7 +295,7 @@
 		<bndbox>
 			<xmin>1173</xmin>
 			<ymin>168</ymin>
-			<xmax>1203</xmax>
+			<xmax>1199</xmax>
 			<ymax>197</ymax>
 		</bndbox>
 	</object>
